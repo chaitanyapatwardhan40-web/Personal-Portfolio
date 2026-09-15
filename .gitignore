@@ -1,0 +1,10 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.vercel/
+
+# not part of the site
+HANDOFF - Portfolio website.md
